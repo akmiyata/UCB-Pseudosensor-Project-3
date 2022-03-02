@@ -35,7 +35,7 @@ for i in range(10):
   h,t = ps.generate_values()
   foo={"H":[h],"T":[t],"Time":[timein]}
 
-#Reformat json into something humanly readable
+#Reformat json into string, for MQTT use
   json_dump=json.dumps(foo)
   msg = json_dump
   topic = "general/inbound"
