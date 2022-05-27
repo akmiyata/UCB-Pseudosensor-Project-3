@@ -1,7 +1,7 @@
 # UCB-Pseudosensor-Project 3
 
 This is the first project in "M2M and IoT Interface Design and Protocols" (ECEA 5348), and picks up where Project 2 from ECEA 5347 left off. I have included a summary file describing the project:
-  1.  UCB5348-Pseudosensor-Project1.pdf: Project overview, including requirements, assumptions, and other notes, as well as screenshots of the UI in several scenarios.
+UCB5348-Pseudosensor-Project1.pdf: Project overview, including requirements, assumptions, and other notes, as well as screenshots of the UI in several scenarios.
   
 Code is only available upon request to prevent plagiarism.
   
